@@ -18,3 +18,5 @@ Desarollo del reto de analisis de sentimientos sobre pueblos magicos (ver pdf).
 
 ## Juan Mario Sosa Romo
 ## 16/Junio/2026
+
+[![wakatime](https://wakatime.com/badge/github/JuanSosaCiencias/MeIA.svg)](https://wakatime.com/badge/github/JuanSosaCiencias/MeIA)
