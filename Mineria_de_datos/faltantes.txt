@@ -1,0 +1,33 @@
+- q5
+
+Hola Juan Mario,
+
+Claro con gusto te paso los resultados truncados a tres cifras:
+
+media_lr: 0.971
+std_lr: 0.011
+
+media_svc: 0.973
+std_svc: 0.013
+
+media_xgb: 0.945
+std_xgb: 0.039
+
+Mejor estimador:
+accuracy_test: 0.973
+
+
+PDF's
+- supervisado_.pdf
+- pipelines.pdf
+- pipeline_hiperparams.pdf
+- Altair AI Studio.pdf
+
+Notebooks
+- Perceptron_logistic....ipynb
+- 5_knn....ipynb
+- 6_nb_ejemplo.ipynb
+- xgb_ejemplo.ipynb
+- pipeline_hiperparams.ipynb
+
+
