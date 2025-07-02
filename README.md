@@ -12,9 +12,6 @@ Desarollo del reto de analisis de sentimientos sobre pueblos magicos (ver pdf).
 
 ##### Equipo: Moodhackers con 4 neuronas
 - Juan Mario Sosa Romo
-- Lizzie Paola Gurza Velasco
-- Daniel Jiménez Vallejo
-- Brian Serrato Ruiz
 
 ## Juan Mario Sosa Romo
 ## 16/Junio/2026
