@@ -19,5 +19,3 @@ También configuré el tamaño de lote (batch size), el número de épocas de en
 Además, implementé métricas de evaluación, como precisión, recuperación y puntuación F1, para evaluar el desempeño del modelo en el conjunto de datos de prueba. Estas métricas me permitieron medir la capacidad del modelo para clasificar correctamente los textos según las emociones correspondientes.
 
 Finalmente, para generar los resultados requeridos para el reto, guardé las predicciones del modelo en un archivo de texto. Cada línea del archivo contiene el identificador de la instancia y la clase de emoción asignada, separados por una tabulación (`\t`), tal como se solicitó en el formato especificado.
-
-
